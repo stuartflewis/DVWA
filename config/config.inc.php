@@ -15,7 +15,7 @@ $_DVWA = array();
 $_DVWA[ 'db_server' ]   = '127.0.0.1';
 $_DVWA[ 'db_database' ] = 'dvwa';
 $_DVWA[ 'db_user' ]     = 'root';
-$_DVWA[ 'db_password' ] = 'p@ssw0rd';
+$_DVWA[ 'db_password' ] = '';
 
 # Port the DB-Server is running on. By default its 3306 for MySQL and 5432 for PGSQL
 $_DVWA[ 'db_port' ] = '3306';
